@@ -1,0 +1,17 @@
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\bin\Debug\P6_1_1204029.exe.config
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.csprojResolveAssemblyReference.cache
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.Properties.Resources.resources
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.csproj.GenerateResource.Cache
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\bin\Debug\P6_1_1204029.exe
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\bin\Debug\P6_1_1204029.pdb
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.exe
+c:\users\acer 756\documents\visual studio 2015\Projects\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.pdb
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\bin\Debug\P6_1_1204029.exe.config
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.exe
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.pdb
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\bin\Debug\P6_1_1204029.exe
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\bin\Debug\P6_1_1204029.pdb
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.Form1.resources
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.Properties.Resources.resources
+C:\Users\user\Downloads\P6_1_1204029\P6_1_1204029\P6_1_1204029\obj\Debug\P6_1_1204029.csproj.GenerateResource.Cache
